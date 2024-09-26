@@ -1,0 +1,6 @@
+# frappe -- https://github.com/frappe/frappe is installed via 'bench init'
+pillow==10.1.0
+qrcode==7.4.2
+pyOpenSSL==23.3.0
+cryptography==41.0.5
+segno=1.5.3

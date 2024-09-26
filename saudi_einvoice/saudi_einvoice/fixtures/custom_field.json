@@ -1,0 +1,39 @@
+[
+  {
+    "doctype": "Custom Field",
+    "dt": "Company",
+    "module": "saudi_einvoice",
+    "name": "Company-tax-config",
+    "fieldname": "einvoice_config",
+    "fieldtype": "Data",
+    "label": "Tax Config File",
+    "insert_after": "einvoice_id"
+  },
+  {
+    "doctype": "Custom Field",
+    "dt": "Sales Invocie",
+    "module": "saudi_einvoice",
+    "name": "Sales Invocie-einvoice-qrcode",
+    "fieldname": "einvoice_qrcode",
+    "fieldtype": "Data",
+    "label": "QrCode"
+  },
+  {
+    "doctype": "Custom Field",
+    "dt": "Sales Invocie",
+    "module": "saudi_einvoice",
+    "name": "Sales Invocie-einvoice-uuid",
+    "fieldname": "einvoice_uuid",
+    "fieldtype": "Data",
+    "label": "QrCode"
+  },
+  {
+    "doctype": "Custom Field",
+    "dt": "Sales Invocie",
+    "module": "saudi_einvoice",
+    "name": "Sales Invocie-einvoice-hash",
+    "fieldname": "einvoice_hash",
+    "fieldtype": "Data",
+    "label": "QrCode"
+  }
+]
